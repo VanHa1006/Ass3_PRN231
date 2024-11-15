@@ -1,0 +1,14 @@
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\bin\Debug\net8.0\SilverPE_BOs.deps.json
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\bin\Debug\net8.0\SilverPE_BOs.runtimeconfig.json
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\bin\Debug\net8.0\SilverPE_BOs.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\bin\Debug\net8.0\SilverPE_BOs.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.csproj.AssemblyReference.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.AssemblyInfoInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.AssemblyInfo.cs
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.csproj.CoreCompileInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\refint\SilverPE_BOs.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\SilverPE_BOs.genruntimeconfig.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_BOs\obj\Debug\net8.0\ref\SilverPE_BOs.dll

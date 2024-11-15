@@ -1,0 +1,17 @@
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_Repository.deps.json
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_Repository.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_Repository.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_BOs.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_DAO.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_DAO.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\bin\Debug\net8.0\SilverPE_BOs.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.csproj.AssemblyReference.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.AssemblyInfoInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.AssemblyInfo.cs
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.csproj.CoreCompileInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE.FC57AE30.Up2Date
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\refint\SilverPE_Repository.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\SilverPE_Repository.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_Repository\obj\Debug\net8.0\ref\SilverPE_Repository.dll

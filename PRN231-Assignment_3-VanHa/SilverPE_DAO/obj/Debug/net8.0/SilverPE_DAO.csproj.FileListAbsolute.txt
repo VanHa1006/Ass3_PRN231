@@ -1,0 +1,15 @@
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\bin\Debug\net8.0\SilverPE_DAO.deps.json
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\bin\Debug\net8.0\SilverPE_DAO.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\bin\Debug\net8.0\SilverPE_DAO.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\bin\Debug\net8.0\SilverPE_BOs.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\bin\Debug\net8.0\SilverPE_BOs.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.csproj.AssemblyReference.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.AssemblyInfoInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.AssemblyInfo.cs
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.csproj.CoreCompileInputs.cache
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE.A6B9C8BD.Up2Date
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\refint\SilverPE_DAO.dll
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\SilverPE_DAO.pdb
+D:\ASP.Net\API\PRN231-Assignment_3-main\SilverPE_DAO\obj\Debug\net8.0\ref\SilverPE_DAO.dll

@@ -1,0 +1,425 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_gRPC\\SilverPE_gRPC.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\SilverPE_API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\SilverPE_API.csproj",
+        "projectName": "SilverPE_API",
+        "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\SilverPE_API.csproj",
+        "packagesPath": "C:\\Users\\SURFACE LAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SURFACE LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\SilverPE_BOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\SilverPE_BOs.csproj",
+        "projectName": "SilverPE_BOs",
+        "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\SilverPE_BOs.csproj",
+        "packagesPath": "C:\\Users\\SURFACE LAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SURFACE LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj",
+        "projectName": "SilverPE_DAO",
+        "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj",
+        "packagesPath": "C:\\Users\\SURFACE LAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SURFACE LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\SilverPE_BOs.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_BOs\\SilverPE_BOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_gRPC\\SilverPE_gRPC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_gRPC\\SilverPE_gRPC.csproj",
+        "projectName": "SilverPE_gRPC",
+        "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_gRPC\\SilverPE_gRPC.csproj",
+        "packagesPath": "C:\\Users\\SURFACE LAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_gRPC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SURFACE LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\SilverPE_API.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_API\\SilverPE_API.csproj"
+              },
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj"
+              },
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.28.3, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.66.0, )"
+            },
+            "Grpc.AspNetCore.Server.Reflection": {
+              "target": "Package",
+              "version": "[2.66.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.66.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.67.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj",
+        "projectName": "SilverPE_Repository",
+        "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\SilverPE_Repository.csproj",
+        "packagesPath": "C:\\Users\\SURFACE LAPTOP\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SURFACE LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj": {
+                "projectPath": "D:\\ASP.Net\\API\\PRN231-Assignment_3-VanHa\\SilverPE_DAO\\SilverPE_DAO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

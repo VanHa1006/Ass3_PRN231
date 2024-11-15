@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Silver-jewelryGrpc.cs \
+obj\Debug\net8.0\Protos/SilverJewelry.cs: Protos/silver-jewelry.proto
